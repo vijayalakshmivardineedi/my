@@ -108,7 +108,8 @@ const Home = () => {
                     <h5>Libraries:<span className='p'>React.js, Redux, Redux-toolkit</span></h5>
                     <h5>Databases:<span className='p'>MongoDB, MySQL</span></h5>
                     <h5>Version Control Tools:<span className='p'>GIT</span></h5>
-                    <h5>IDE/Tools:<span className='p'>Visual Studio, Postman, MongoDB Compass, Eclipse, Figma</span></h5>
+                    <h5>IDE-Tools:<span className='p'>Visual Studio, Eclipse</span></h5>
+                    <h5>Other-Tools:<span className='p'>Postman, MongoDB Compass, Figma</span></h5>
                 </div>
             </section>
             <section ref={projectsRef} id="projects" className='projects-section'>
